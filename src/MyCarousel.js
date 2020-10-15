@@ -21,7 +21,7 @@ export default function MyCarousel() {
           <ReactPlayer
             className='react-player'
             style={contentStyle}
-            url='https://www.youtube.com/watch?v=G9Lk9-A44OY'
+            url='http://www.youtube.com/watch?v=G9Lk9-A44OY'
             width='100%'
             height='100%'
           />
@@ -30,7 +30,7 @@ export default function MyCarousel() {
           <ReactPlayer
             className='react-player'
             style={contentStyle}
-            url='https://www.youtube.com/watch?v=DndhLYgjVzw'
+            url='http://www.youtube.com/watch?v=DndhLYgjVzw'
             width='100%'
             height='100%'
           />
@@ -39,7 +39,7 @@ export default function MyCarousel() {
           <ReactPlayer
             className='react-player'
             style={contentStyle}
-            url='https://www.youtube.com/watch?v=gvLihpGqfXQ'
+            url='http://www.youtube.com/watch?v=gvLihpGqfXQ'
             width='100%'
             height='100%'
           />
@@ -48,7 +48,7 @@ export default function MyCarousel() {
           <ReactPlayer
             className='react-player'
             style={contentStyle}
-            url='https://www.youtube.com/watch?v=VIgwPAiV4ZE'
+            url='http://www.youtube.com/watch?v=VIgwPAiV4ZE'
             width='100%'
             height='100%'
           />
